@@ -10,3 +10,4 @@ contracts/account.json
 contracts/config.json
 
 *.testnet
+.DS_Store
